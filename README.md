@@ -1,14 +1,13 @@
-## Getting Started
+## SNAKE
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# ALUMNO: MIGUEL PEREZ MARTIN
 
-## Folder Structure
+Juego basado en el mitico juego de snake.
 
-The workspace contains two folders by default, where:
+consiste en mover una representacion de una serpiente e ir comiendo la comida simulada con colores.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+para mover esta serpiente se utilizan las teclas de direccion.
 
-## Dependency Management
+cada vez que come la serpiente crece y se suman puntos dependiendo de que comida se comio.
 
-The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
+para perder el juego existen unas trampas que la serpiente no puede comer, si se pierde se compara la puntuacion conseguida con la puntuacion mayor obtenida en dicho juego y nos dira si la hemos supera o no.
