@@ -1,6 +1,6 @@
 ## SNAKE
 
-# ALUMNO: MIGUEL PEREZ MARTIN
+### ALUMNO: MIGUEL PEREZ MARTIN
 
 Juego basado en el mitico juego de snake.
 
